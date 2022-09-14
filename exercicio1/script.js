@@ -1,5 +1,6 @@
-const num = //seu numero aqui
+const num = 12
+const total = num / 2
 
-if(){
-    console.log("sua mensagem aqui");
+if(total % 2 == 0 ) {
+    console.log('O número é par')
 }
